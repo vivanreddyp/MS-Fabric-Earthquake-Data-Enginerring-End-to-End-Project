@@ -45,6 +45,7 @@ The **Medallion Architecture** organizes data in three progressive layers:
 
 ### 5.2 Overview of the Earthquake API
 - The API provided earthquake data in **GeoJSON** format, which was fetched using Python’s **requests** library.
+- https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2014-01-01&endtime=2014-01-02
 
 ## 6. Data Processing
 
