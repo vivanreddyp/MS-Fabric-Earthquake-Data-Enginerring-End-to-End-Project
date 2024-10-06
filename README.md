@@ -139,6 +139,8 @@ The project successfully demonstrated the ability to:
 This project provided hands-on experience with **Microsoft Fabric’s Data Engineering, Data Factory, and Power BI** services. The integration of the Medallion architecture with automated pipelines enabled efficient, scalable data processing, and meaningful insights via Power BI visualizations.
 
 ## 14. References
-- [Pathfinder Analytics : https://www.youtube.com/watch?v=Av44Nrhl05s]
+- Pathfinder Analytics : https://www.youtube.com/watch?v=Av44Nrhl05s
 - [USGS Earthquake API Documentation](https://earthquake.usgs.gov/fdsnws/event/1/)
 - [Microsoft Fabric documentation](https://learn.microsoft.com/en-us/fabric/)
+
+- Credits : Malvik Vaghadia
